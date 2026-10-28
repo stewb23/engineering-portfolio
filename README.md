@@ -6,7 +6,8 @@ I also work fluently with modern AI tooling — I use coding agents (Claude Code
 
 **Credentials:** FE Exam passed (NCEES) · Certified SOLIDWORKS Associate (CSWA) · Eagle Scout
 
-Project photos and the full illustrated portfolio document are available on request.
+![Portfolio — ROHM demo and hybrid rocket trailer](images/portfolio-page-1.png)
+![Portfolio — ping pong robot and pipsqueak engine](images/portfolio-page-2.png)
 
 ## Projects
 
@@ -21,6 +22,17 @@ Full write-ups: [projects/PROJECTS.md](projects/PROJECTS.md)
 | [ME 415 Glider](projects/PROJECTS.md#me-415-glider--flight-vehicle-design) | Fixed-wing glider designed with XFLR aerodynamic analysis | Full design report and design review completed |
 | Capital Project Leadership | End-to-end capital projects in a production plant: design, procurement, installation, commissioning | Led a $500k capital project end to end |
 | [FE Mechanical Practice Exam](projects/PROJECTS.md#fe-mechanical-practice-exam--author) | Full-length illustrated FE practice exam, authored and published | 17 original engineering figures; every solution independently verified before publication |
+
+## Project photos
+
+![Ping pong shooting robot](images/ping-pong-robot.png)
+*Ping pong shooting robot — 85% accuracy, color-sorted shooting*
+
+![ROHM LED driver demo bench](images/rohm-demo-bench.png)
+*ROHM automotive LED driver demo on the bench — PCB, motor, and test equipment*
+
+![PCB testing](images/pcb-testing.png)
+*PCB bring-up and testing*
 
 ## Teaching experience
 
@@ -41,4 +53,4 @@ STEM tutor (Wyzant, 2025–present), one-on-one with mechanical engineering stud
 
 - Design and product portfolio: https://stewb23.github.io/
 - LinkedIn: https://www.linkedin.com/in/brianstewart23
-- Resume available on request
+- Resume: [Brian-Stewart-Resume.pdf](Brian-Stewart-Resume.pdf)
